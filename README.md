@@ -60,7 +60,7 @@ A Vue.js and Pinia counter application demonstrating state management, computed 
 
 A responsive makeup e-commerce application built with React and Vite, featuring product browsing, search, shopping cart functionality, and dynamic price calculation.
 
-[GitHub](https://github.com/shahed-edlbe28/SHE-beauty-Store)
+[GitHub](https://github.com/shahed-edlbe28/SHE-beauty-Store) | [Live Demo](https://shahed-edlbe28.github.io/SHE-beauty-Store/)
 
 
 ## 📊 GitHub Stats

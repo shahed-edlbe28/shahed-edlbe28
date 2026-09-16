@@ -56,6 +56,12 @@ A Vue.js and Pinia counter application demonstrating state management, computed 
 [![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shahed-edlbe28/counter-App)
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-success?style=for-the-badge)](https://shahed-edlbe28.github.io/counter-App/)
 
+### 💄 SHE Beauty
+
+A responsive makeup e-commerce application built with React and Vite, featuring product browsing, search, shopping cart functionality, and dynamic price calculation.
+
+[GitHub](https://github.com/shahed-edlbe28/SHE-beauty-Store)
+
 
 ## 📊 GitHub Stats
 
